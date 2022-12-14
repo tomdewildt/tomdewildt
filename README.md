@@ -4,7 +4,7 @@
 
 I'm from The Netherlands, living in 's-Hertogenbosch, and currently working as a freelance Data Scientist and Software Engineer. You can find me on [LinkedIn](https://www.linkedin.com/in/tom-de-wildt/).
 
-<a href="https://www.buymeacoffee.com/tomdewildt" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/tomdewildt" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 148px !important;" ></a>
 
 ## Technologies & Tools 🔧
 
