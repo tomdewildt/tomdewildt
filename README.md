@@ -1,6 +1,6 @@
 # Hi, I'm Tom 👋
 
-**I am a Data Science & Software Engineer.**
+**I am a Data Scientist & Software Engineer.**
 
 I'm from The Netherlands, living in 's-Hertogenbosch, and currently working as a AI Engineer for [Neople](https://www.neople.io/). You can find me on [LinkedIn](https://www.linkedin.com/in/tom-de-wildt/).
 
