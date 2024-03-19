@@ -1,8 +1,8 @@
 # Hi, I'm Tom 👋
 
-**I am a Software Engineer and Data Science & Entrepreneurship Student.**
+**I am a Data Science & Software Engineer.**
 
-I'm from The Netherlands, living in 's-Hertogenbosch, and currently working as a freelance Data Scientist and Software Engineer. You can find me on [LinkedIn](https://www.linkedin.com/in/tom-de-wildt/).
+I'm from The Netherlands, living in 's-Hertogenbosch, and currently working as a AI Engineer for [Neople](https://www.neople.io/). You can find me on [LinkedIn](https://www.linkedin.com/in/tom-de-wildt/).
 
 <a href="https://www.buymeacoffee.com/tomdewildt" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 148px !important;" ></a>
 
