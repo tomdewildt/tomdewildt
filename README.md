@@ -26,5 +26,5 @@ I'm from The Netherlands, living in 's-Hertogenbosch, and currently working as a
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tomdewildt&theme=default&locale=en&show_icons=true&title_color=0396c7&text_color=151515&icon_color=0396c7&border_color=e4e2e2&bg_color=ffffff" width=400 />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomdewildt&theme=default&locale=en&currStreakNum=151515&currStreakLabel=0396c7&sideNums=151515&sideLabels=151515&dates=464646&fire=0396c7&ring=0396c7&stroke=e4e2e2&border=e4e2e2&background=ffffff" width=400 />
+  <img src="https://streak-stats.demolab.com/?user=tomdewildt&theme=default&locale=en&currStreakNum=151515&currStreakLabel=0396c7&sideNums=151515&sideLabels=151515&dates=464646&fire=0396c7&ring=0396c7&stroke=e4e2e2&border=e4e2e2&background=ffffff" width=400 />
 </div>
